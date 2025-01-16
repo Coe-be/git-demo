@@ -1,7 +1,7 @@
 git+hub 
 Linux
 word
-计算机网络
+计算机网络，好多要背的
 计算机操作系统
 python
 java+web
